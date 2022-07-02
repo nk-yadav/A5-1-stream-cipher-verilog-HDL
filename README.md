@@ -51,8 +51,8 @@
         ciphertext ⊕ keystream = plaintext       
 
 ## Results
- - Decrypted Image
+ - Decrypted Image:\
    ![decrypt](https://user-images.githubusercontent.com/77710362/177014243-24200adb-3578-4740-9faf-5c7fa4cc8771.jpg)
- - Encrypted Image
+ - Encrypted Image:\
    ![encrypt](https://user-images.githubusercontent.com/77710362/177014251-d0d4d915-07b9-487b-886f-99e5fb6eb217.jpg)
 
