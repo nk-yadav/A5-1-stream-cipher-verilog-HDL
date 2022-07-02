@@ -12,6 +12,7 @@
 ## Working
  - The three LFSRs X, Y and Z having lengths equal to 19, 22, and 23 bits respectively are reset to 0.
  - Consecutively XORing Secret Key bits in parallel to the feedback of the register. 
+
      ![1 of 64](https://user-images.githubusercontent.com/77710362/177014169-9f769358-ca41-4db4-86f6-f9beb6aacfbf.png)
 
      ![2 of 64](https://user-images.githubusercontent.com/77710362/177014173-046e3b52-230b-4a5b-aa41-f7f6a51aee5b.png)
@@ -21,8 +22,11 @@
      ![4 of 64](https://user-images.githubusercontent.com/77710362/177014195-b115f3a0-3ede-448a-b804-1b0f8315b857.png)
      
  - Consecutively XORing Public Key bits in parallel to the feedback of the register.
+ 
      ![1 of 22](https://user-images.githubusercontent.com/77710362/177014208-4a6a75e4-6b2c-4c63-b4df-e2c7bc92f82f.png)
-     ![2 of 22](https://user-images.githubusercontent.com/77710362/177014212-19d19faf-c18c-4d4f-a963-30cfc4ba0f91.png)   
+     
+     ![2 of 22](https://user-images.githubusercontent.com/77710362/177014212-19d19faf-c18c-4d4f-a963-30cfc4ba0f91.png)  
+     
      ![3 of 22](https://user-images.githubusercontent.com/77710362/177014221-3cbc252d-7c0a-459d-b81f-e6262eecfa69.png)
 
  - Keystream generation:   
@@ -47,6 +51,6 @@
 
 ## Results
  - Decrypted Image
-     ![decrypt](https://user-images.githubusercontent.com/77710362/177014243-24200adb-3578-4740-9faf-5c7fa4cc8771.jpg)
+    ![decrypt](https://user-images.githubusercontent.com/77710362/177014243-24200adb-3578-4740-9faf-5c7fa4cc8771.jpg)
  - Encrypted Image
-     ![encrypt](https://user-images.githubusercontent.com/77710362/177014251-d0d4d915-07b9-487b-886f-99e5fb6eb217.jpg)
+    ![encrypt](https://user-images.githubusercontent.com/77710362/177014251-d0d4d915-07b9-487b-886f-99e5fb6eb217.jpg)
