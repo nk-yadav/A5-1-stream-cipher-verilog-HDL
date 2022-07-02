@@ -56,3 +56,5 @@
  - Encrypted Image:\
    ![encrypt](https://user-images.githubusercontent.com/77710362/177014251-d0d4d915-07b9-487b-886f-99e5fb6eb217.jpg)
 
+## P.S.
+ - Image can be converted to binary using Python or Matlab.
