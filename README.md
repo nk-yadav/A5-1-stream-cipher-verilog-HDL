@@ -21,11 +21,7 @@
      
      ![4 of 64](https://user-images.githubusercontent.com/77710362/177014195-b115f3a0-3ede-448a-b804-1b0f8315b857.png)
      
-     
-     
-     
-     
-     
+ 
  - Consecutively XORing Public Key bits in parallel to the feedback of the register.
  
      ![1 of 22](https://user-images.githubusercontent.com/77710362/177014208-4a6a75e4-6b2c-4c63-b4df-e2c7bc92f82f.png)
@@ -56,6 +52,7 @@
 
 ## Results
  - Decrypted Image
-     ![decrypt](https://user-images.githubusercontent.com/77710362/177014243-24200adb-3578-4740-9faf-5c7fa4cc8771.jpg)
+   ![decrypt](https://user-images.githubusercontent.com/77710362/177014243-24200adb-3578-4740-9faf-5c7fa4cc8771.jpg)
  - Encrypted Image
-     ![encrypt](https://user-images.githubusercontent.com/77710362/177014251-d0d4d915-07b9-487b-886f-99e5fb6eb217.jpg)
+   ![encrypt](https://user-images.githubusercontent.com/77710362/177014251-d0d4d915-07b9-487b-886f-99e5fb6eb217.jpg)
+
