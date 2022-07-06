@@ -31,7 +31,7 @@
      ![3 of 22](https://user-images.githubusercontent.com/77710362/177014221-3cbc252d-7c0a-459d-b81f-e6262eecfa69.png)
 
  - Keystream generation:   
-     In the generation of keystream (for 256*256*8 clock cycles), the shifting of registers will be based on a majority function m.
+     In the generation of keystream (for 256x256x8 clock cycles), the shifting of registers will be based on a majority function m.
 
         m = maj(x8, y10, z10)
 
